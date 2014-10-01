@@ -82,17 +82,17 @@ Programmet skall utvecklas med hjälp av testerna.
 
 Kör `bundle install` för att installera alla dependencies (och `rbenv rehash` om rspec inte redan var installerat)
 
-Skapa funktionerna i `lib/count.rb`
+Skapa funktionerna i `lib/minutes_and_hours.rb`
 
-Testerna finns i `spec/count_spec.rb`
+Testerna finns i `spec/minutes_to_hour_and_minutes_spec.rb`
 
 Kör `rspec` för att köra testerna.
 
 ##### Python #####
 
-Skapa funktionerna i `lib/count.py`
+Skapa funktionerna i `lib/minutes_and_hours.py`
 
-Testerna finns i `test/count_test.py`
+Testerna finns i `test/minutes_to_hour_and_minutes_test.py`
 
 Kör `nosetests --rednose` för att köra testerna.
 
